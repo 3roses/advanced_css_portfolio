@@ -74,6 +74,9 @@ nav ul li {
 }
 
 .content section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #14213D;
     color: #E5E5E5;
 }
